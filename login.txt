@@ -1,2 +1,4 @@
 login init
 login form make
+input func make
+request func make
